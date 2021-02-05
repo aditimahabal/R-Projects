@@ -1,5 +1,5 @@
 ---
-title: "FINAL STAT 1601 project"
+title: "STAT 1601 project"
 author: "Isha Anand and Aditi Mahabal"
 date: "4/30/2020"
 output: pdf_document
